@@ -1,8 +1,8 @@
 # MP4-Spherical-Video-Meta-Data-Parser
-MP4 Spherical Video V1 / V2 Meta Data Parser
+MP4 Spherical Video V1 / V2 Meta Data Parser.
 
-* Parsing with ReadableStream
-* Supports files larger than 4GB by using BigInt
+* Parsing with ReadableStream.
+* Supports files larger than 4GB by using BigInt. (Unverified)
 
 ## Dependent libraries
 * [pako](https://github.com/nodeca/pako)
