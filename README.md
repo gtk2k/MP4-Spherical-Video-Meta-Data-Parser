@@ -11,5 +11,3 @@ Using pako to decompress Deflate compression.
 ## Known issues
 * If a large Box, such as the 'mdat' Box(Atom), precedes the metadata, it will take longer to parse.
 
-## License
-MIT
