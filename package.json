@@ -1,0 +1,21 @@
+{
+  "name": "MP4SphericalParser",
+  "version": "1.0.0",
+  "description": "",
+  "main": "mp4SphericalParser.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "node --es-module-specifier-resolution=node ./test/test.js"
+  },
+  "type": "module",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^2.6.1",
+    "tiny-esm-test-runner": "^1.2.2",
+    "xmldom": "^0.4.0"
+  }
+}
