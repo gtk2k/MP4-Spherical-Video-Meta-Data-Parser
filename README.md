@@ -11,3 +11,6 @@ Using pako to decompress Deflate compression.
 ## Known issues
 * If a large Box, such as the 'mdat' Box(Atom), precedes the metadata, it will take longer to parse.
 
+## License
+[MIT](https://github.com/gtk2k/MP4-Spherical-Video-Meta-Data-Parser/blob/main/LICENSE)
+
